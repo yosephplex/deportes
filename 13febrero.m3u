@@ -1,0 +1,16 @@
+#EXTM3U
+
+#EXTINF:-1, Real Sociedad - Mirandes
+https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_4.m3u8
+
+#EXTINF:-1, Directv Sports
+http://51.15.16.74:25461/live/q6lbahVVqS/2I0eyiK7Qc/598.m3u8
+
+#EXTINF:-1,Sport tv hd
+http://35.244.254.93/live/tv1/chunks.m3u8
+
+#EXTINF:-1,Cuatro HD
+https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_4.m3u8
+
+#EXTINF:-1,Real Madrid-Bilbao
+http://push1.feber.xyz/hls/live15a/chunks.m3u8
